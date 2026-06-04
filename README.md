@@ -10,6 +10,19 @@
 
 ## Portfolio
 
+### Stylog
+
+コーディネート共有アプリ
+
+* 投稿機能
+* フォロー機能
+* コメント機能
+* いいね機能
+
+🔗 https://graduation-project-mjhg.onrender.com/?locale=ja#discover
+
+---
+
 ### StoreLog
 
 アパレル店舗向け情報共有アプリ
@@ -20,17 +33,6 @@
 * Render + Neonで公開
 
 🔗 https://storelog-app.onrender.com/
-
----
-
-### Stylog
-
-コーディネート共有アプリ
-
-* 投稿機能
-* フォロー機能
-* コメント機能
-* いいね機能
 
 ---
 
