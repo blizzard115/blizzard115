@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**blizzard115/blizzard115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+アパレル販売経験を活かし、アパレル × ITのサービス開発を目指しています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+現在はRuby on Railsを中心に学習しながら、個人開発と技術発信に取り組んでいます。
+
+---
+
+## Portfolio
+
+### StoreLog
+
+アパレル店舗向け情報共有アプリ
+
+* 既読管理
+* 未読ユーザーの可視化
+* 店舗ごとの情報管理
+* Render + Neonで公開
+
+🔗 https://storelog-app.onrender.com/
+
+---
+
+### Stylog
+
+コーディネート共有アプリ
+
+* 投稿機能
+* フォロー機能
+* コメント機能
+* いいね機能
+
+---
+
+## Technical Articles
+
+### Zenn
+
+🔗 [https://zenn.dev/blizzard/articles/34124ac437f3fe](https://zenn.dev/blizzard)
+
+---
+
+## Tech Stack
+
+* Ruby
+* Ruby on Rails
+* PostgreSQL
+* Docker
+* Render
+* Neon
+* GitHub Actions
+* RSpec
+* Tailwind CSS
+
+---
+
+## Goal
+
+アパレル業界の課題をITで解決するサービスを開発し、将来的には自身のプロダクトを運営することを目標にしています。
