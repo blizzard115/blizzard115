@@ -27,7 +27,7 @@
 
 **使用技術**
 
-Ruby / Ruby on Rails / PostgreSQL / Docker / RSpec / Render / AWS S3
+Ruby / Ruby on Rails / PostgreSQL / Docker / RSpec / GitHub Actions / Render / AWS S3
 
 🔗 https://graduation-project-mjhg.onrender.com/?locale=ja#discover
 
@@ -48,7 +48,7 @@ Ruby / Ruby on Rails / PostgreSQL / Docker / RSpec / Render / AWS S3
 
 **使用技術**
 
-Ruby / Ruby on Rails / PostgreSQL / Docker / RSpec / Render / Neon
+Ruby / Ruby on Rails / PostgreSQL / Docker / RSpec / FactoryBot / Render / Neon / Tailwind CSS
 
 🔗 https://storelog-app.onrender.com/
 
