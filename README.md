@@ -49,6 +49,7 @@ Ruby / Ruby on Rails / PostgreSQL / Docker / RSpec / GitHub Actions / Render / A
 * 未読ユーザーの可視化
 * 重要投稿機能
 * ユーザー認証機能
+* 新しい売り場ノート作成機能
 
 **使用技術**
 
